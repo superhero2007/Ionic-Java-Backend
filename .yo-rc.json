@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "upwork.ionic.test"
+    },
+    "jhipsterVersion": "5.4.2",
+    "applicationType": "monolith",
+    "baseName": "ionicTest",
+    "packageName": "upwork.ionic.test",
+    "packageFolder": "upwork/ionic/test",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZGRlOGYwNTNmNzhiMmZlMGZjMDBiZjhkZmRhMWUxZjlhNmVjOGIyMzE4ZTJiYTYwN2FmODc4ZGYxMmUxNzdhNGEyNDhiYmEyNmI2OWI4YTAwNmE0NzRkMzcyOTFkOTllZTFiMzhlMzcxMjcxY2ZhZDRhNjhiODE0YzE4ZDAxNWM=",
+    "enableTranslation": false
+  }
+}
